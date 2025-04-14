@@ -8,7 +8,7 @@
   },
   "author": "bab",
   "license": "ISC",
-  "description": "",
+  "description": "An ESLint plugin rule for Vue to disallow <i> tags and suggest using <font-awesome-icon> instead.",
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^10.0.0",
