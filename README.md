@@ -11,12 +11,12 @@ Disallow `<i>` tags in Vue templates and suggest using `<font-awesome-icon>` ins
 ### 💡 Example
 
 **Before**
-```vue
+```html
 <i class="fas fa-user other-class"></i>
 ```
 
 **After**
-```vue
+```html
 <font-awesome-icon icon="fas fa-user" class="other-class" />
 ```
 
