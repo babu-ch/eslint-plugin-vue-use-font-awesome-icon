@@ -7,7 +7,7 @@
     "test": "mocha -w"
   },
   "author": "bab",
-  "license": "ISC",
+  "license": "MIT",
   "description": "An ESLint plugin rule for Vue to disallow <i> tags and suggest using <font-awesome-icon> instead.",
   "devDependencies": {
     "eslint": "^8.57.0",
