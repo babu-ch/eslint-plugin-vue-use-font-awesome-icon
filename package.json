@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-vue-use-font-awesome-icon",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "bab",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-vue": "^10.0.0",
+    "mocha": "^11.1.0"
+  }
+}
